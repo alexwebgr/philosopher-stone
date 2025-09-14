@@ -1,0 +1,8 @@
+title: Philosopher's Stone
+description: Philosophical Ramblings
+baseurl: ""
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
