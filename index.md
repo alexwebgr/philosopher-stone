@@ -3,24 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to Our Site
+## Welcome to the Philosopher's Stone
 
-This is regular markdown content that non-tech people can easily edit.
-
-<div class="highlight-box" id="special-section">
-
-## Special Section
-
-More markdown content here. The div above gives us CSS hooks.
-
-</div>
-
-## Embedded Videos
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
-</div>
-
-**Bold text** and *italic text* work normally in markdown.
-
-<button class="cta-button" onclick="handleClick()">Call to Action</button>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=4rsHlApWI8aldlDm&amp;list=PLzWIGbhbUDSFx34ysVhQLcYseqZeAR2jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,8 +1,9 @@
 title: Philosopher's Stone
 description: Philosophical Ramblings
-baseurl: ""
-url: "https://yourusername.github.io"
+
+url: "https://alexwebgr.github.io"
+baseurl: "/philosopher-stone"
 
 markdown: kramdown
 highlighter: rouge
-theme: minima
+theme: jekyll-theme-primer
